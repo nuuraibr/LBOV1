@@ -20,6 +20,7 @@ index.html
    </article>
 <article>
     <h2>Hjem</h2>
+    <a href="index.htmlOb">hjem</a>
 </article>
 <article>
     <h2>Kontakt oss</h2>
