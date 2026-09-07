@@ -1,0 +1,24 @@
+index.html
+<!doctype html>
+<html lang="en">
+  <head>
+<meta charset="UTF-8"/>
+<style>
+    #myHeader {
+        background-color: Grey;
+        color: black;
+        padding: 30px;
+        text-align: center;
+    }
+</style>
+
+  </head>
+
+  <body>
+    <h1 id="myHeader">myHeader </h1>
+
+
+  </body>
+
+
+</html>
